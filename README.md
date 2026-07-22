@@ -1,9 +1,9 @@
 # 🧳 Local Turístico
 
 <p align="center">
-  <a href="images/preview.png">
+  <a href="assets/preview.png">
     <img
-      src="images/preview.png"
+      src="assets/preview.png"
       alt="Preview da Landing Page Local Turístico"
       width="700"
     >
