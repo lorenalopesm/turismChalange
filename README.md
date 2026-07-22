@@ -1,5 +1,15 @@
 # 🧳 Local Turístico
 
+<p align="center">
+  <a href="images/preview.png">
+    <img
+      src="images/preview.png"
+      alt="Preview da Landing Page Local Turístico"
+      width="700"
+    >
+  </a>
+</p>
+
 > Projeto desenvolvido como desafio da formação **Full-stack** da Rocketseat.
 
 Este repositório reúne um dos desafios práticos da formação **Full-stack** da Rocketseat. O projeto consiste em uma Landing Page sobre a cidade de **Busan**, desenvolvida com **HTML5** e **CSS3**, seguindo um layout proposto no Figma.
