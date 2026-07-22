@@ -5,7 +5,7 @@
     <img
       src="assets/preview.png"
       alt="Preview da Landing Page Local Turístico"
-      width="100"
+      width="200" heigt="50"
     >
   </a>
 </p>
